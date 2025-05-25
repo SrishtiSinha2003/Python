@@ -31,4 +31,10 @@ To run the files in this repository:
    ```bash
    git clone https://github.com/your-username/python-basics.git
    cd python-basics
+2. Run any chapter file or the project using:
+   ```bash
+   python filename.py
+
+
+   
 
