@@ -34,7 +34,11 @@ To run the files in this repository:
 2. Run any chapter file or the project using:
    ```bash
    python filename.py
-
+<br>   
+Make sure Python 3 is installed on your system.
+<br>
+🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
    
 
