@@ -33,11 +33,10 @@ To run the files in this repository:
    cd python-basics
 2. Run any chapter file or the project using:
    ```bash
-   python filename.py
-<br>   
+   python filename.py   
 Make sure Python 3 is installed on your system.
 <br>
-🤝 Contributing
+🤝 Contributing <br>
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
    
